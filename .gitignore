@@ -1,0 +1,14 @@
+log/*
+tmp/**/*
+db/schema.rb
+db/*.sqlite3
+public/system
+*.DS_Store
+coverage/*
+*.sw[op]
+rerun.txt
+tags
+!.keep
+tmp/*
+eyrc
+.bundle/*
